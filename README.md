@@ -11,9 +11,13 @@ Lending Club Case Study is to determine the loan parameters / values that would 
 
 ## General Information
 - Provide general information about your project here.
+  Analyse using Python the loan data set and find out variables that can cause a loan to defaut.
 - What is the background of your project?
+  Upgrad AI and Machine Learning Course
 - What is the business probem that your project is trying to solve?
+  Finding causes for a customer to default ona loan
 - What is the dataset that is being used?
+  Loan Data Set
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -30,10 +34,7 @@ Lending Club Case Study is to determine the loan parameters / values that would 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+Based on Live Sessions and Tutorials offered by Upgrad
 
 
 ## Contact
